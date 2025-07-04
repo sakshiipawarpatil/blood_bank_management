@@ -1,5 +1,4 @@
 # blood_bank_management
-# Blood Bank Management System
 
 ## Overview
 The Blood Bank Management System is a database-driven application designed to manage blood donations, blood inventory, and blood requests. It allows for efficient tracking of donors, recipients, blood types, and transfusions, ensuring that blood is available when needed.
